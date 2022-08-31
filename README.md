@@ -73,6 +73,7 @@
 | Jack Benadon            | Section 003       | JackBenadon          | https://github.com/JackBenadon/GitHub-Practice-184       |
 | Gelin Tong              | Section 003       | SkyTong              | https://github.com/xihuixu/GitHub-Practice-184           |
 | Jake Powell             | Section 003       | jakepow5             | https://github.com/jakepow5/GitHub-Practice-184          |
+| Kynan Bohner            | Section 003       | kmb7259              | https://github.com/KynanB/GitHub-Practice-184            |
 <br>
 
 # Integration of RStudio with Git
